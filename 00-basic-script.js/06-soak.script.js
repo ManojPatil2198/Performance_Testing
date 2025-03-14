@@ -8,7 +8,7 @@ export const options = {
             target: 10,  // 10 VUs
         },
         {
-            duration: "30min",
+            duration: "30hrs",
             target: 1000,  // 10 VUs
         },
         {
